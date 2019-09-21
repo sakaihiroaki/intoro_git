@@ -3,3 +3,4 @@ gitの練習
 .git dd
 .git commit
 git status
+あいやー
