@@ -2,3 +2,4 @@ gitの練習
 基本的なワーク
 .git dd
 .git commit
+git status
